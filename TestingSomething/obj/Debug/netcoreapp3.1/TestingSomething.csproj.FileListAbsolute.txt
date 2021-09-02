@@ -1,0 +1,15 @@
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.csprojAssemblyReference.cache
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.AssemblyInfoInputs.cache
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.AssemblyInfo.cs
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.exe
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.deps.json
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.runtimeconfig.json
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.runtimeconfig.dev.json
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.dll
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\TestingSomething.pdb
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.csproj.CopyComplete
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.dll
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.pdb
+D:\Work\Light Point\HitApi\TestingSomething\TestingSomething\obj\Debug\netcoreapp3.1\TestingSomething.genruntimeconfig.cache

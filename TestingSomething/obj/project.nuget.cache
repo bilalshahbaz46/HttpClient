@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNuLBp9OZK5FsYluFfg5iKg/KPPThPO+UtwnRV0yYQm1yMJ4+rjnPtwUSo031iioWqdCP5gpOXlJpH46rXhtdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\TestingSomething.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bilal(Techverx)\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
