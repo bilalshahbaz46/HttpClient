@@ -41,11 +41,9 @@ namespace TestingSomething
 
                 //Convert to Json String
                 var json = JsonConvert.SerializeXmlNode(doc, Newtonsoft.Json.Formatting.None, false);
-                var test = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(json);
 
 
                 //Deserializing Json string to C# Object
-
                 var welcom = Test.FromJson(json);
 
 
