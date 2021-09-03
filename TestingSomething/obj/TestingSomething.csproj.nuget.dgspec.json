@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\TestingSomething.csproj": {}
+    "D:\\Work\\Light Point\\HitApi\\Testing Something3\\TestingSomething\\TestingSomething.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\TestingSomething.csproj": {
+    "D:\\Work\\Light Point\\HitApi\\Testing Something3\\TestingSomething\\TestingSomething.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\TestingSomething.csproj",
+        "projectUniqueName": "D:\\Work\\Light Point\\HitApi\\Testing Something3\\TestingSomething\\TestingSomething.csproj",
         "projectName": "TestingSomething",
-        "projectPath": "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\TestingSomething.csproj",
+        "projectPath": "D:\\Work\\Light Point\\HitApi\\Testing Something3\\TestingSomething\\TestingSomething.csproj",
         "packagesPath": "C:\\Users\\Bilal(Techverx)\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Light Point\\HitApi\\TestingSomething\\TestingSomething\\obj\\",
+        "outputPath": "D:\\Work\\Light Point\\HitApi\\Testing Something3\\TestingSomething\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bilal(Techverx)\\AppData\\Roaming\\NuGet\\NuGet.Config",
